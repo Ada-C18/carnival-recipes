@@ -1,6 +1,5 @@
 Jane's Banana Bread
 ---------------------
-
 Servings: 10
 =======
 Time: 1 hour 5 minutes
@@ -20,8 +19,10 @@ Directions:
 3. Cream together butter and sugar.
 4. Add eggs and crushed bananas. Combine well.
 5. Sift together flour, soda and salt.
+6. Add to creamed mixture.
 7. Add vanilla.
+8. Mix just until combined. Do not overmix.
 9. Pour into greased and floured loaf pan.
-9. Mix just until combined. Do not overmix.
 10. Bake at 350 degrees for 55 minutes.
 11. Keeps well, refrigerated.
+
